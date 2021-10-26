@@ -30,6 +30,7 @@ h1{
     height: 800px;
     margin: 50px 300px 10px;
     border-radius: 8px;
+    padding-left: 50px;
 }
 
 /* Barra-nav */
@@ -54,4 +55,94 @@ h1{
 hr{
     height: 2px;
     background-color: #eee;
+}
+/* New-Task */
+.editorial{
+    background: #47ADF1 ;
+    display: inline-block;
+    line-height: 30px;
+    border-radius: 10px;
+    font-size: 12px;
+    margin-left: 15px;
+    padding: 0px 10px 0px 10px;
+    height: 30px;
+    vertical-align: middle;
+}
+.goals{
+    background: #9C72E4 ;
+    display: inline-block;
+    line-height: 30px;
+    border-radius: 10px;
+    font-size: 12px;
+    margin-left: 15px;
+    padding: 0px 10px 0px 10px;
+}
+.recruiting{
+    background: #64C0A9 ;
+    display: inline-block;
+    line-height: 30px;
+    border-radius: 10px;
+    font-size: 12px;
+    margin-left: 15px;
+    padding: 0px 10px 0px 10px;
+    height: 30px;
+    vertical-align: middle;
+}
+.mobile{
+    background: #F29E33 ;
+    display: inline-block;
+    line-height: 30px;
+    border-radius: 10px;
+    font-size: 12px;
+    margin-left: 15px;
+    padding: 0px 10px 0px 10px;
+    height: 30px;
+    vertical-align: middle;
+}
+
+.website{
+    background: #D863A1 ;
+    display: inline-block;
+    line-height: 30px;
+    border-radius: 12px;
+    font-size: 12px;
+    margin-left: 15px;
+    padding: 0px 10px 0px 10px;
+    height: 30px;
+    vertical-align: middle;
+}
+.sales{
+    background: #B0C926 ;
+    display: inline-block;
+    line-height: 30px;
+    border-radius: 10px;
+    font-size: 12px;
+    margin-left: 15px;
+    padding: 0px 10px 0px 10px;
+    height: 30px;
+    vertical-align: middle;
+}
+
+.new-task{
+    font-weight: 500;
+    vertical-align: middle;
+    line-height: 40px;
+}
+ul{
+    list-style: none;
+    display: inline-block;
+    
+}
+
+/* Today */
+.today{
+    font-weight: 500;
+    line-height: 40px;
+    padding-left: 0px;
+
+}
+/* Upcoming */
+.upcoming{
+    font-weight: 500;
+    line-height: 40px;
 }
